@@ -1,0 +1,20 @@
+body {
+	background-color: #333;
+	color: #ccc;
+	font-family: sans-serif;
+	padding: 0 1rem;
+}
+
+/* smartphone view */
+@media (max-width: 577px) {
+	img {
+		width: 100%;
+	}
+}
+
+/* computer/table view */
+@media (min-width: 578px) {
+	img {
+		max-width: 30rem;
+	}
+}
