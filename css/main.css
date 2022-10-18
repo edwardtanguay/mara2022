@@ -5,6 +5,11 @@ body {
 	padding: 0 1rem;
 }
 
+h3 {
+	background-color: #444;
+	padding: .3rem;
+}
+
 /* smartphone view */
 @media (max-width: 577px) {
 	img {
@@ -16,5 +21,12 @@ body {
 @media (min-width: 578px) {
 	img {
 		max-width: 30rem;
+	}
+	h3 {
+		max-width: 30rem;
+	}
+	hr {
+		max-width: 30rem;
+		margin-left: 0;
 	}
 }
