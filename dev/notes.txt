@@ -2,3 +2,5 @@
 - marathon times with number pickup and place
 - areas of bordeaux
 - areas of bilbao
+
+- write airbnbs
