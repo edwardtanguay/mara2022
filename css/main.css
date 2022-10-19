@@ -5,6 +5,10 @@ body {
 	padding: 0 1rem;
 }
 
+a {
+	color: yellow;
+}
+
 h3 {
 	background-color: #444;
 	padding: .3rem;
