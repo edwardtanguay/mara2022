@@ -6,7 +6,7 @@ body {
 }
 
 a {
-	color: yellow;
+	color: rgb(228, 228, 152);
 }
 
 h3 {
@@ -29,7 +29,7 @@ h3 {
 /* computer/table view */
 @media (min-width: 578px) {
 	img {
-		max-width: 30rem;
+		max-width: 40rem;
 		display: block;
 		margin-bottom: 1rem;
 	}
